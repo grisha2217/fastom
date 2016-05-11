@@ -1,0 +1,2 @@
+# fastom
+FASTOM.SU
